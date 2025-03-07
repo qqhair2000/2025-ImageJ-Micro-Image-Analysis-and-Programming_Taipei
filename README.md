@@ -11,7 +11,8 @@
 
 相關連結
 1. [EABIAS (East Asia Bioimage Analysts’ Society)](<https://eabias.github.io/>)
-2. 課前準備  2024年暑假"ImageJ入門課程" Dr. 洪金俊  
+2. [EABIAS YouTube Channel](<https://www.youtube.com/@EABIAS>)
+3. 課前準備  2024年暑假"ImageJ入門課程" Dr. 洪金俊  
    [ImageJ 工作坊_Part 1: 比例尺校正, 簡單物件分割與分析, 螢光影像分析處理](<https://www.youtube.com/watch?v=n4K9VmHjwyE>)  
    [ImageJ 工作坊_Part 2:  ImageJ 的進階操作，包含彩色組織切片分析、影像飄移校正、細胞追蹤實驗分析、螢光共位分析，AI 模組應用](<https://www.youtube.com/watch?v=GkZL2a2wbVo>)
    
