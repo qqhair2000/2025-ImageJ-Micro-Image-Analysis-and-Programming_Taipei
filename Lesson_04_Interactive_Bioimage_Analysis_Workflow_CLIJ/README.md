@@ -15,6 +15,6 @@
 ![CLIJ_testing_01](CLIJ_testing_01.gif)
 
 ---
-## Step_3 (Optional):測試CLIJ在安裝電腦上的效能, 請下載benchmarking.ijm 
+## Step_3 (Optional): 測試CLIJ在安裝電腦上的效能, 請下載benchmarking.ijm後執行
 ![CLIJ_testing_02](CLIJ_testing_02.gif)
 
