@@ -3,6 +3,7 @@
 ![CLIJ_installation](CLIJ_Installation.gif)
 
 ### 02_測試CLIJ是否運作正常
+![CLIJ_testing](CLIJ_testing.gif)
 
 ### 若無法正常安裝或執行CLIJ, 建議下載全新的[FIJI](https://fiji.sc/)後重來一次上述安裝步驟
 
