@@ -2,7 +2,7 @@
 ### 01_在FIJI上安裝CLIJ
 ![CLIJ_installation](CLIJ_Installation.gif)
 
-### 02_測試CLIJ是否運作正常, 請下載benchmarking.ijm並執行 (需在有網路的環境下)
+### 02_測試CLIJ是否運作正常, 請下載benchmarking.ijm並在有網路連線的狀況下執行
 ![CLIJ_testing](CLIJ_testing.gif)
 
 ### 若無法正常安裝或執行CLIJ, 建議下載全新的[FIJI](https://fiji.sc/)後重來一次上述安裝步驟
