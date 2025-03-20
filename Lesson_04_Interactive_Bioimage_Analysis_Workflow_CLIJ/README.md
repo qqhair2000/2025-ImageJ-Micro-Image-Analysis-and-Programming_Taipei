@@ -3,7 +3,7 @@
 ## 課前準備:
 請參考以下投影片動畫的安裝說明。  
 若無法正常安裝或執行CLIJ, 建議下載全新的[FIJI](https://fiji.sc/)再進行安裝。  
-如果怎樣安裝都失敗...請下載經過我們測試沒問題的[FIJI_CLIJ_Windows](https://drive.google.com/drive/u/0/folders/1mjrMmZxspH0CeKxvldbY9WVEzzr9e_H3)版本!  
+如果怎樣安裝都失敗...請下載經過我們測試沒問題的[FIJI_CLIJ_Windows](https://drive.google.com/file/d/1FJ_ThMHPa7EnfjtDFaACKgJHeI3pdoO5/view?usp=sharing)版本!  
 
 **去現場上課的同學, 若無法連線到網路, 建議先在有網路連線的環境下先執行以下指令**  
 **File -> Open Samples -> Cache Sample Images**
