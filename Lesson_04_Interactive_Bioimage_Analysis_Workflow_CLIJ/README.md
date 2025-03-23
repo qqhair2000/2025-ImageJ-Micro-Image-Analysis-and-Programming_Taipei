@@ -1,4 +1,4 @@
-## 完整PowerPoint檔案請點選右方連結: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15049615.svg)](https://doi.org/10.5281/zenodo.15049615)
+## 完整PowerPoint檔案請點選右方連結: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15070246.svg)](https://doi.org/10.5281/zenodo.15070246)
 
 ## 課前準備:
 請參考以下投影片動畫的安裝說明。  
